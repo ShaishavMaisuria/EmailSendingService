@@ -1,6 +1,7 @@
 # EmailSendingService
 This project was done for class course, This code is only for display to recruiters. Please dont copy or use my code or any of the material from my repository without my written permision.  
-I have protected my code with right full rights please refer to license section. 
+I have protected my code with right full rights please refer to license section.
+Where my files are protected under Apache License 2.0 and Honor code of My college.
 
 # Project EMail-service: Without GUI .
 
