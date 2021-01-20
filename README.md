@@ -1,5 +1,5 @@
 # EmailSendingService
-This project was done for course ITSC 3166 at UNCC, This code is only for display to recruiters. Please dont copy or use my code without my permision. 
+This project was done for course ITSC 3166 at UNCC, This code is only for display to recruiters. Please dont copy or use my code or any of the material from my repository without my written permision.  
 I have protected my code with right full rights please refer to license section. 
 
 # Project A Simplified Mail User Agent: Without GUI .
