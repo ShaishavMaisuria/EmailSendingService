@@ -13,7 +13,8 @@ Where my files are protected under Apache License 2.0 and Honor code of My colle
 •	Next step is to establish a TCP connection with the mail server using smtp port number. I have used well know port for smtp which is port 25 both in part 1 and part 2
 
 •	Using telnet, I enter the required commands that used to send the email. Such as, to check whether port is listening or not and we are receiving any response we use any string example hello allice. Then, Email ID from which we want to send email as (we can use any email address or create a random one with @ and “.”format in it). Then, RCPT TO command was used, In this we need to write the email ID we used to send the email (in this case our mail sever email which is xyz@imailt.com). Then, we send DATA command and data we want to send which can consists of Subject, to, from, message. Once that is done, ”.” is used to notify the server that the end of data. We close the connection by QUIT command.
-Part 2: Sending email with JAVA.
+
+## Part 2: Sending email with CODE (JAVA).
 
 •	I have wrote a Java program that establishes TCP connection with mail server through socket interface, and sends email message using the same port for part 1 which is port 25. I also had to check whether port is listening or not and we are receiving any response depending the command we sending to mail server.
 
