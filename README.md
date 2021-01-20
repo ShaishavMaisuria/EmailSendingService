@@ -24,6 +24,8 @@ Part 2: Sending email with JAVA.
 •	The only condition for the part 2 is the format of what should be host name server should be know before hand in java code. I have taken host name from part 1 which is mail.imailt.top . All the commands and steps discussed in part 1 at very end is same and exact to how I have wrote the code. Which means we enter same input that we enter in part 1 and observe same output in both part 1 and 2
 
 •	As, using the socket interface I had to open socket for establish connection and close at very end of the program. Part 1 and part 2 functions similar and gives the same output. 
+
+
 ----------------------------------------------------------- End of Report-------------------------------------------------------------------------
 
 
@@ -47,3 +49,12 @@ o	Javacode_output_part2= is the screens shot of what is inside email that is sen
 
 •	Report file
 o	Network project report= consists of key application and understandings and outcomes
+
+## prerequisite
+o Java 
+o Network Understanding
+o Linux Environment
+
+
+
+
