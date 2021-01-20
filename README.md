@@ -52,7 +52,9 @@ o	Network project report= consists of key application and understandings and out
 
 ## prerequisite
 o Java 
+
 o Network Understanding
+
 o Linux Environment
 
 
