@@ -5,7 +5,7 @@ Where my files are protected under Apache License 2.0 and Honor code of My colle
 
 # Project EMail-service: Without GUI .
 
-## Part 1: Sending Email with Telnet:
+## Sending Email with Telnet:
 •	In this project I tried sending email to myself. In order to do that One need to know host name of mail server for my mail domain depending on mail service. In order to find out this information I preformed DNS query for MX record that registers the information about my mail domain. For email: xyz@imailt.com
 
 •	I have used following mail service in order to perform entire project. Mail service= https://temp-mail.org/en/. Also, after performing query I got the following host name of mail server which need to be used as the very first input in java code later. example  mail.imailt.top
@@ -49,6 +49,9 @@ o	Javacode_output_part2= is the screens shot of what is inside email that is sen
 
 •	Report file
 o	Network project report= consists of key application and understandings and outcomes
+
+•	Lin file
+o 
 
 ## prerequisite
 o Java 
