@@ -2,7 +2,7 @@
 This project was done for course ITSC 3166 at UNCC, This code is only for display to recruiters. Please dont copy or use my code without my permision. 
 I have protected my code with right full rights please refer to license section. 
 
-# Project Report: for project 2A A Simplified Mail User Agent: Without GUI .
+# Project A Simplified Mail User Agent: Without GUI .
 ## Part 1: Sending Email with Telnet:
 •	In this project I tried sending email to myself. In order to do that One need to know host name of mail server for my mail domain depending on mail service. In order to find out this information I preformed DNS query for MX record that registers the information about my mail domain. For email: xyz@imailt.com
 
